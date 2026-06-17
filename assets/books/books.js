@@ -19,7 +19,7 @@ window.BOOKS_DATA = {
     {
       title: "Mrs Dalloway",
       author: "Virginia Woolf",
-      image: "mrsdalloway.jpg",
+      image: "mrsdalloway.jpeg",
       link: null,
     },
     {

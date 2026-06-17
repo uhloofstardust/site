@@ -28,7 +28,7 @@ window.ANIME_DATA = [
   },
   {
     title: "Suzume",
-    studio: "Makoto Shinkai",
+    studio: "Anime/Light Novel",
     image: "suzume.jpg",
     link: null,
   },
